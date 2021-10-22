@@ -12,7 +12,7 @@ Run on your terminal `$npm install` to install the project.
 ## Demo
 
 Live Demo https://currencyconverterksh.netlify.app 
-https://currencyconverterksh.herokuapp.com/
+https://currencyconverterksh.herokuapp.com
 
 
 ## Available Scripts
